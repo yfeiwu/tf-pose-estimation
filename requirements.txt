@@ -6,8 +6,8 @@ numba
 psutil
 pycocotools
 requests
-scikit-image
+scikit-image==0.21.1
 scipy
 slidingwindow
 tqdm
-git+https://github.com/ppwwyyxx/tensorpack.git
+git+https://github.com/tensorpack/tensorpack.git
